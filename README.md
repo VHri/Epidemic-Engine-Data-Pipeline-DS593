@@ -3,6 +3,11 @@ https://github.com/BU-CDS-DS539-2024-Spring/epidemic-engine-project-harshahrisha
 
 Note: Reuploaded as the course repository fork visibility could not be set to public.
 
+# Project Overview
+<p align="center">
+  <img src="assets/epidemic_engine.png" alt="Architecture Mockup" width="800"/>
+</p>
+
 # Project Documentation
 
 # Steps to Run the Final Project
